@@ -2,8 +2,6 @@
 One shot script that configures a quectel USB LTE modem + eiot SIM card on ubuntu 24.04 for cellular connectivity.
 
 
-To run this:
+To Use This Script:
 
-sudo nano setup-eiot.sh
-
-Paste the script into nano
+git clone https://github.com/SlateIntegrations-git/script-quectel-eiot-modem-ubuntu-setup.git && cd script-quectel-eiot-modem-ubuntu-setup && chmod +x setup-eiot.sh && ./setup-eiot.sh
