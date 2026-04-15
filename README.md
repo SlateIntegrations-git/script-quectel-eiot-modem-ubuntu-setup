@@ -4,5 +4,5 @@ One shot script that configures a quectel USB LTE modem + eiot SIM card on ubunt
 
 To Use This Script:
 ```
-git clone https://github.com/SlateIntegrations-git/script-quectel-eiot-modem-ubuntu-setup.git && cd script-quectel-eiot-modem-ubuntu-setup && chmod +x setup-eiot.sh && ./setup-eiot.sh
+git clone https://github.com/SlateIntegrations-git/script-quectel-eiot-modem-ubuntu-setup.git && cd script-quectel-eiot-modem-ubuntu-setup && sudo chmod +x setup-eiot.sh && sudo ./setup-eiot.sh
 ```
